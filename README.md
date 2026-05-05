@@ -1,4 +1,4 @@
-# MavMatch 🤝
+# MavMatchUTA 🤝
 
 A full-stack web application that helps University of Texas at Arlington (UTA) students find compatible study partners based on shared courses and overlapping weekly availability.
 
