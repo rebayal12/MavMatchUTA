@@ -148,7 +148,7 @@ src/
 
 ## Team
 
-Primary design and development by Ahmad Abdallah as a Senior IS Project at the University of Texas at Arlington.
+Primary design and development by Rebayal Ansari as a Senior IS Project at the University of Texas at Arlington.
 
 Other group members were part of the assigned project team and are acknowledged for their participation and support.
 ---
